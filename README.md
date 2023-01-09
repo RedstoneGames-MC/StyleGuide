@@ -23,4 +23,4 @@ RedstoneGamesMC Code Style Guidelines
 
 |Table of Contents|
 |-----------------|
-|Konzepte //TODO  |
+|[Arbeitsauftrag (Development)](https://redstonegames-mc.github.io/StyleGuide/arbeitsauftragdev.html)|
