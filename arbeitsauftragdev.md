@@ -1,8 +1,6 @@
 
-# Shell Style Guide
+# Arbeitsauftrag Style Guide for Devs
 <sub>Revision 1.0.0</sub>  
-<sub>Fork of [https://github.com/google/styleguide](https://github.com/google/styleguide) with additional changes</sub>  
-Authored by [Max](https://github.com/maxbossing)
 
 ## Table of Contents
 |Section                                |Contents                                                                   |
