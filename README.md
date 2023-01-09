@@ -11,7 +11,16 @@ RedstoneGamesMC Code Style Guidelines
 
 ---
 
+## Developer
+
 |Table Of Contents|
 |-----------------|
 |[Shell](https://redstonegames-mc.github.io/StyleGuide/shell.html)|
 
+---
+
+## Contents
+
+|Table of Contents|
+|-----------------|
+|Konzepte //TODO  |
